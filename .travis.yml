@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+- '0.10'
+deploy:
+  provider: npm
+  email: bvdrucker@gmail.com
+  api_key:
+    secure: abFn/g/HHCQHH2KYCKnfHC+mzuUb2N9jxewUvI3QMYEKQabdsXKCcyuEa57BL2DqT/8TFO792GCzGeC80QILhDhNIn8q/HpZ/fZ/CZGE7GNW/kp71lMdV1GGP+sAWA2LoVN7bwvoJVWf1UY9hNh/1jVIUG2dCb//hRP5XqO/B6M=
+  on:
+    tags: true
+    all_branches: true
+    repo: bendrucker/angular-router-exception-handler
