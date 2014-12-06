@@ -1,0 +1,28 @@
+{
+  "name": "angular-router-exception-handler",
+  "version": "1.0.0",
+  "description": "Delegate route/state change errors to Angular's $exceptionHandler. For ngRoute and UI-Router.",
+  "main": "./src",
+  "scripts": {
+    "test": "karma start --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bendrucker/angular-router-exception-handler.git"
+  },
+  "keywords": [
+    "angular",
+    "router",
+    "ngRoute",
+    "ui-router",
+    "exceptionHandler",
+    "exceptions",
+    "errors"
+  ],
+  "author": "Ben Drucker <bvdrucker@gmail.com> (http://www.bendrucker.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bendrucker/angular-router-exception-handler/issues"
+  },
+  "homepage": "https://github.com/bendrucker/angular-router-exception-handler"
+}
