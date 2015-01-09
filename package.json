@@ -1,6 +1,6 @@
 {
   "name": "angular-router-exception-handler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Delegate route/state change errors to Angular's $exceptionHandler. For ngRoute and UI-Router.",
   "main": "./src",
   "scripts": {
