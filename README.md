@@ -1,6 +1,6 @@
 angular-router-exception-handler
 ================================
-[![Build Status](https://travis-ci.org/bendrucker/angular-router-exception-handler.svg?branch=master)](https://travis-ci.org/bendrucker/angular-router-exception-handler)
+[![Build Status](https://travis-ci.org/bendrucker/angular-router-exception-handler.svg?branch=master)](https://travis-ci.org/bendrucker/angular-router-exception-handler) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/angular-router-exception-handler.svg)](https://greenkeeper.io/)
 
 Delegate route/state change errors to Angular's $exceptionHandler. For [ngRoute](https://docs.angularjs.org/api/ngRoute) and [UI-Router](https://github.com/angular-ui/ui-router).
 
